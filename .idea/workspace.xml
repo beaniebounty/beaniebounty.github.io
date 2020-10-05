@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e45211f-d2af-413b-acf9-0d3e9689f4af" name="Default Changelist" comment="" />
+    <list default="true" id="6e45211f-d2af-413b-acf9-0d3e9689f4af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901051419</updated>
-      <workItem from="1601901052514" duration="6592000" />
+      <workItem from="1601901052514" duration="7138000" />
     </task>
     <servers />
   </component>
@@ -82,10 +84,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601907126587" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601907347630">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601908158982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601907347630" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601908158982" />
     <state x="727" y="399" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601907602211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
